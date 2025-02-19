@@ -1,0 +1,3 @@
+
+_RUTA_PATH_TOKEN_GUIA = r'\\SERVER-DELL\File Pdf\TOKENS\TOKEN_API_SUNAT_GUIAS.txt'
+# _RUTA_PATH_TOKEN_GUIA = r'C:\Users\yorrs\OneDrive\Escritorio\api_sisgep\TOKEN_API_SUNAT_GUIAS.txt'

@@ -1,0 +1,6 @@
+<?xml version="1.0" ?><acceso>
+<servidor>localhost</servidor>
+ <usuario>grupopau_gestor_viaticos2_user</usuario>
+ <password>grupopau_gestor_viaticos2_password</password>
+ <database>grupopau_gestor_viaticos2</database>
+</acceso>
